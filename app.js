@@ -72,3 +72,4 @@ function reiniciarJogo(){
 
 
 
+//asd--- IGNORE ---
