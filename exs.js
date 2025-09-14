@@ -46,7 +46,7 @@ alert(maiorNumero(522,130));
 
 //Criar uma função que recebe um número como parâmetro 
 //e retorna o resultado da multiplicação desse número 
-// por ele mesmo
+// por ele mesmo.
 
 /*
 function multiplicarPorEleMesmo(numero){
